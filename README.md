@@ -67,4 +67,4 @@ Open terminal and enter jtop, and go to see INFO if you discover the problems as
 
 [Missing CUDA/cuDNN/TensorRT/VPI after Reflashing Jetson Orin Nano](https://nvidia-jetson.piveral.com/jetson-orin-nano/missing-cuda-cudnn-tensorrt-vpi-after-reflashing-jetson-orin-nano/)
 
-After completing the above steps, restart up the computer!
+### After completing the above steps, restart up the computer!
