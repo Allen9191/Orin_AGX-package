@@ -46,12 +46,19 @@ Open terminal and enter jtop, and go to see INFO if you discover two problems as
 
 github [AastaNV/JEP](https://github.com/AastaNV/JEP/blob/master/script/install_opencv4.10.0_Jetpack6.1.sh)
 
->Download this file"JEP/script/install_opencv4.10.0_Jetpack6.1.sh"
+>Download this file "JEP/script/install_opencv4.10.0_Jetpack6.1.sh"
+
+Open the terminal, 
+
+>cd Downloads
 
 >chmod +x install_opencv4.10.0_Jetpack6.1.sh
 
 >./install_opencv4.10.0_Jetpack6.1.sh
-確定要移除原本的OpenCV, yes
+
+"Do you want to remove the default OpenCV (yes/no)?"
+
+>yes
 
 
 
