@@ -1,9 +1,11 @@
-# Reinstallation of Orin_AGX / Orin_NANO 
+# Reinstallation of Orin_AGX / Orin_Nano 
 ## Before Flashing Machine (This part JUST for Orin_AGX!)
 ### Warning: Please follow the instructions below STEP BY STEP.
 [NVIDIA Jetson AGX Orin 安裝 JetPack 6.0 正式版](https://blog.cavedu.com/2024/08/10/jetson-agx-orin-jp6-install/)
-##First Open
-linux setting
+
+## Steps from now on ALSO work on Orin_Nano.
+
+After start up, then open terminal and follow those commands.
 
 >sudo apt update
 
@@ -11,7 +13,7 @@ linux setting
 
 >sudo apt install vim
 
-install Chroium-browser
+### Debug Chroium-browser
 >At aarch64 snap version:
 >[Chromium, other browsers not working after flashing or updating](https://forums.developer.nvidia.com/t/chromium-other-browsers-not-working-after-flashing-or-updating-heres-why-and-quick-fix/338891)
 
