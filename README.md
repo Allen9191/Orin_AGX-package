@@ -34,7 +34,7 @@ Follow the instruction and command.
 
 Open terminal and enter jtop, and go to see INFO if you discover two problems as title. Please follow those instructions or commands.
 
->[Jtop fix to show Jetpack 6.2.1](https://forums.developer.nvidia.com/t/jtop-fix-to-show-jetpack-6-2-1/339404/1)
+[Jtop fix to show Jetpack 6.2.1](https://forums.developer.nvidia.com/t/jtop-fix-to-show-jetpack-6-2-1/339404/1)
 
 >" /usr/local/lib/python3.10/dist-packages/jtop/core/"
 
