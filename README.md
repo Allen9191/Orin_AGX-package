@@ -60,6 +60,6 @@ Open the terminal,
 
 >yes
 
-
+If OpenCV is installed completely, then restart up the computer!
 
 
