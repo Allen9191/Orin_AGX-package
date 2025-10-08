@@ -44,7 +44,7 @@ Open terminal and enter jtop, and go to see INFO if you discover two problems as
 
 #### OpenCV 4.XX.X with CUDA: NO
 
->github [AastaNV/JEP](https://github.com/AastaNV/JEP/blob/master/script/install_opencv4.10.0_Jetpack6.1.sh)
+github [AastaNV/JEP](https://github.com/AastaNV/JEP/blob/master/script/install_opencv4.10.0_Jetpack6.1.sh)
 
 >Download this file"JEP/script/install_opencv4.10.0_Jetpack6.1.sh"
 
