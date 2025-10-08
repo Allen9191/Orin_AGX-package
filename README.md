@@ -6,22 +6,23 @@
 ## Steps from now on ALSO work on Orin_Nano.
 
 After start up, then open terminal and follow those commands.
-
 >sudo apt update
-
 >sudo apt upgrade
 
 If you discover there is no vim, then
-
 >sudo apt install vim
 
 ### Debug Chromium Web Browser
+
+If you find there is a problem when opening Chromium, follow the instruction and command.
 >At aarch64 snap version:
 >[Chromium, other browsers not working after flashing or updating](https://forums.developer.nvidia.com/t/chromium-other-browsers-not-working-after-flashing-or-updating-heres-why-and-quick-fix/338891)
 
 >sudo apt-get install chromium-browser
 
-##Install jtop
+### Install jtop
+
+Follow the instruction and command.
 >[jetson-stats](https://rnext.it/jetson_stats/)
 
 >reboot
