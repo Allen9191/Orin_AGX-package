@@ -25,7 +25,8 @@ At aarch64 snap version:
 ### Install jtop
 
 Follow the instruction and command.
->[jetson-stats](https://rnext.it/jetson_stats/)
+
+[jetson-stats](https://rnext.it/jetson_stats/)
 
 >reboot
 
