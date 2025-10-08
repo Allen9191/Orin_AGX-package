@@ -11,6 +11,8 @@ After start up, then open terminal and follow those commands.
 
 >sudo apt upgrade
 
+If you discover there is no vim, then
+
 >sudo apt install vim
 
 ### Debug Chroium-browser
