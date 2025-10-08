@@ -32,9 +32,8 @@ Follow the instruction and command.
 
 ### Solve Jetpack MISSING & OpenCV 4.XX.X with CUDA: NO
 
-
 #### Jetpack MISSING
-Open terminal and enter jtop, and go to see INFO if you discover two problems as title. Please follow those instructions or commands.
+Open terminal and enter jtop, and go to see INFO if you discover two problems as title. Please follow those instructions and commands.
 
 >cd /usr/local/lib/python3.10/dist-packages/jtop/core/
 
@@ -60,6 +59,12 @@ Open the terminal,
 
 >yes
 
-If OpenCV is installed completely, then restart up the computer!
+### Solve cuDNN: MISSING & TensorRT: MISSING & VPI: MISSING
+
+Open terminal and enter jtop, and go to see INFO if you discover the problems as title. Please follow those instructions OR commands.
+
+>sudo apt install nvidia-jetpack
 
 [Missing CUDA/cuDNN/TensorRT/VPI after Reflashing Jetson Orin Nano](https://nvidia-jetson.piveral.com/jetson-orin-nano/missing-cuda-cudnn-tensorrt-vpi-after-reflashing-jetson-orin-nano/)
+
+After completing the above steps, restart up the computer!
