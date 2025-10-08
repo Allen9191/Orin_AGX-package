@@ -62,4 +62,4 @@ Open the terminal,
 
 If OpenCV is installed completely, then restart up the computer!
 
-
+[Missing CUDA/cuDNN/TensorRT/VPI after Reflashing Jetson Orin Nano](https://nvidia-jetson.piveral.com/jetson-orin-nano/missing-cuda-cudnn-tensorrt-vpi-after-reflashing-jetson-orin-nano/)
