@@ -15,7 +15,7 @@ If you discover there is no vim, then
 
 >sudo apt install vim
 
-### Debug Chroium-browser
+### Debug Chromium Web Browser
 >At aarch64 snap version:
 >[Chromium, other browsers not working after flashing or updating](https://forums.developer.nvidia.com/t/chromium-other-browsers-not-working-after-flashing-or-updating-heres-why-and-quick-fix/338891)
 
