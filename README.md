@@ -1,9 +1,7 @@
 # Reinstallation of Orin_AGX / Orin_NANO 
 ## Before Flashing Machine (This part JUST for Orin_AGX!)
-
+### Warning: Please follow the instructions below STEP BY STEP.
 [NVIDIA Jetson AGX Orin 安裝 JetPack 6.0 正式版](https://blog.cavedu.com/2024/08/10/jetson-agx-orin-jp6-install/)
-Force Recovery button 按住進入Recovery Mode模式，按著接電源，不然電腦供電可能會不足
-然後再按開機鍵(Force Recovery button不能放)
 ##First Open
 linux setting
 
@@ -11,7 +9,7 @@ linux setting
 
 >sudo apt upgrade
 
-check vim
+>sudo apt install vim
 
 install Chroium-browser
 >At aarch64 snap version:
