@@ -32,17 +32,18 @@ Follow the instruction and command.
 
 ### Solve Jetpack MISSING & OpenCV 4.XX.X with CUDA: NO
 
+
+#### Jetpack MISSING
 Open terminal and enter jtop, and go to see INFO if you discover two problems as title. Please follow those instructions or commands.
 
-[Jtop fix to show Jetpack 6.2.1](https://forums.developer.nvidia.com/t/jtop-fix-to-show-jetpack-6-2-1/339404/1)
-
->" /usr/local/lib/python3.10/dist-packages/jtop/core/"
+>cd /usr/local/lib/python3.10/dist-packages/jtop/core/
 
 >sudo vim jetson_variables.py
 
->reboot
+[Jtop fix to show Jetpack 6.2.1](https://forums.developer.nvidia.com/t/jtop-fix-to-show-jetpack-6-2-1/339404/1)
 
-OpenCV: 4.8.0 with CUDA: NO
+#### OpenCV 4.XX.X with CUDA: NO
+
 >github [AastaNV/JEP](https://github.com/AastaNV/JEP/blob/master/script/install_opencv4.10.0_Jetpack6.1.sh)
 
 >Download this file"JEP/script/install_opencv4.10.0_Jetpack6.1.sh"
